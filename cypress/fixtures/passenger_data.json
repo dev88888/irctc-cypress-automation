@@ -1,25 +1,32 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "13351",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "26/04/2024",
+  "SOURCE_STATION": "MAS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "CBE",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Thanneermalai N",
+      "AGE": 36,
       "GENDER": "Male",
-      "SEAT": "No Preference",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Random name",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Ponmani S",
+      "AGE": 32,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    }
+    {
+      "NAME": "Gunaseelan K",
+      "AGE": 27,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
